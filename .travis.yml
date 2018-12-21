@@ -4,7 +4,7 @@ dist: trusty
 install: true
 addons:
   sonarcloud:
-    organization: "alu0100956955"
+    organization: "alu0100956955-github"
     token:
       secure: "6213b7b285b655878d405db31a8c99a1992d9e51"  //clave hecha en .clase lab
 jdk:
